@@ -31,7 +31,7 @@ The following table relates the 17 signals to the names used as prefix for the v
 - Body Acceleration Magnitude	
 - Gravity Acceleration Magnitude		
 - Body Acceleration Jerk Magnitude	
-- Body Angular Speed Magnitude	
+- Body Angular Speed Magnitude
 - Body Angular Acceleration Magnitude		
 
 2. Time domain
@@ -47,8 +47,8 @@ The following table relates the 17 signals to the names used as prefix for the v
 - TimeDomain.BodyAngularAccelerationMagnitude
 - TimeDomain.BodyAngularAcceleration.XYZ
 
-
 3. Frequency domain
+
 - FrequencyDomain.BodyAccelerationJerk.XYZ
 - FrequencyDomain.BodyAcceleration.XYZ
 - FrequencyDomain.BodyAngularSpeed.XYZ
