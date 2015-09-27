@@ -30,7 +30,7 @@ The following table relates the 17 signals to the names used as prefix for the v
 - Body Angular Acceleration		
 - Body Acceleration Magnitude	
 - Gravity Acceleration Magnitude		
-- Body Acceleration Jerk Magnitude	
+- Body Acceleration Jerk Magnitude
 - Body Angular Speed Magnitude
 - Body Angular Acceleration Magnitude		
 
