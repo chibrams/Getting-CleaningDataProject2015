@@ -19,8 +19,9 @@ The tidy data set contains observations with variables divided in:
 - The following table relates the 17 signals to the names used as prefix for the variables names present in the data set. ".XYZ" denotes three variables, one for each axis.
 
 1. Name
-* Body Acceleration	  
-* Gravity Acceleration		
+
+- Body Acceleration	  
+- Gravity Acceleration		
 - Body Acceleration Jerk	
 - Body Angular Speed	
 - Body Angular Acceleration		
