@@ -3,9 +3,7 @@ Course project for Coursera "Getting and Cleaning Data"
 
 This repository contains the files required in the course project of the Coursera course "the Getting and Cleaning Data".
 
-##Project Overview
-
-:
+##Project Overview:
 
 This project serves to demonstrate the student's ability to collect and clean an untidy data set that can be used for subsequent analysis. 
 For this, it is required to submit the following:
