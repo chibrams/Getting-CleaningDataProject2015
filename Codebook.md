@@ -43,9 +43,7 @@ The tidy data set contains observations with variables divided in:
 - TimeDomain.GravityAccelerationMagnitude
 - TimeDomain.BodyAngularAccelerationMagnitude
 - TimeDomain.BodyAngularAcceleration.XYZ
-
 3. Frequency domain
-
 - FrequencyDomain.BodyAccelerationJerk.XYZ
 - FrequencyDomain.BodyAcceleration.XYZ
 - FrequencyDomain.BodyAngularSpeed.XYZ
