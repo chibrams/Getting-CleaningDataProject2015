@@ -19,7 +19,7 @@ A full description of the data used in this project can be found at The [UCI Mac
 
 ##Steps performed to create the tidy data set:
 
-1. Download [the source data file](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and unzip it in the data folder UCI HAR Dataset.
+1. Download [the source data file](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and unzip it in the data folder 'UCI HAR Dataset'.
 2. Read data from the 6 files into 6 variables.
 3. Merges the training and the test sets to create one data set.
 4. Extracts only the measurements on the mean and standard deviation for each measurement.
