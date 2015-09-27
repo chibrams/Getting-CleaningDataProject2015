@@ -15,8 +15,8 @@ an activity label (Activity): WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SIT
 an identifier of the subject who carried out the experiment (Subject): 1, 3, 5, 6, 7, 8, 11, 14, 15, 16, 17, 19, 21, 22, 23, 25, 26, 27, 28, 29, 30
 a 79-feature vector with time and frequency domain signal variables (numeric)
 The following table relates the 17 signals to the names used as prefix for the variables names present in the data set. ".XYZ" denotes three variables, one for each axis.
-- Name'	Time domain'	Frequency domain
-- Body Acceleration	TimeDomain.BodyAcceleration.XYZ	FrequencyDomain.BodyAcceleration.XYZ
+- Name'	              Time domain'	                      Frequency domain
+- Body Acceleration	  TimeDomain.BodyAcceleration.XYZ	    FrequencyDomain.BodyAcceleration.XYZ
 - Gravity Acceleration	TimeDomain.GravityAcceleration.XYZ	
 - Body Acceleration Jerk	TimeDomain.BodyAccelerationJerk.XYZ	FrequencyDomain.BodyAccelerationJerk.XYZ
 - Body Angular Speed	TimeDomain.BodyAngularSpeed.XYZ	FrequencyDomain.BodyAngularSpeed.XYZ
