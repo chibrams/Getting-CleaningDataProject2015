@@ -19,12 +19,12 @@ A full description of the data used in this project can be found at The [UCI Mac
 
 ##Steps performed to create the tidy data set:
 
-1- Download [the source data file](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and unzip it in the data folder UCI HAR Dataset.
-2- Read data from the 6 files into 6 variables.
-3- Merges the training and the test sets to create one data set.
-4- Extracts only the measurements on the mean and standard deviation for each measurement.
-5- Uses descriptive activity names to name the activities in the data set
-6- Appropriately labels the data set with descriptive names.
-7- Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+1. Download [the source data file](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and unzip it in the data folder UCI HAR Dataset.
+2. Read data from the 6 files into 6 variables.
+3. Merges the training and the test sets to create one data set.
+4. Extracts only the measurements on the mean and standard deviation for each measurement.
+5. Uses descriptive activity names to name the activities in the data set
+6. Appropriately labels the data set with descriptive names.
+7. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 The above steps will be performed by running the attached R script, run_analysis.R. The end result will be shown in the file tidy.txt.
