@@ -29,8 +29,7 @@ The tidy data set contains observations with variables divided in:
 - Gravity Acceleration Magnitude		
 - Body Acceleration Jerk Magnitude
 - Body Angular Speed Magnitude
-- Body Angular Acceleration Magnitude		
-
+- Body Angular Acceleration Magnitude
 2. Time domain
 
 - TimeDomain.BodyAcceleration.XYZ	    
