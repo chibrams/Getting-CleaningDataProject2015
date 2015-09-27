@@ -53,7 +53,6 @@ The tidy data set contains observations with variables divided in:
 - FrequencyDomain.BodyAccelerationJerkMagnitude
 - FrequencyDomain.BodyAngularSpeedMagnitude
 - FrequencyDomain.BodyAngularAccelerationMagnitude
-
 For variables derived from mean and standard deviation estimation, the previous labels are augmented with the terms "Mean" or "StandardDeviation".
 
 ##Activity Labels
