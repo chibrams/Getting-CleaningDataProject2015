@@ -21,7 +21,8 @@ a 79-feature vector with time and frequency domain signal variables (numeric)
 
 The following table relates the 17 signals to the names used as prefix for the variables names present in the data set. ".XYZ" denotes three variables, one for each axis.
 
-1. Name 
+1. Name
+2. 
 - Body Acceleration	  
 - Gravity Acceleration		
 - Body Acceleration Jerk	
