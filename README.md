@@ -1,5 +1,5 @@
 # Getting-CleaningDataProject2015
-Course project for Coursera "Getting and Cleaning Data"
+Course project for Coursera "Getting and Cleaning Data" course.
 
 This repository contains the files required in the course project of the Coursera course "the Getting and Cleaning Data".
 
@@ -7,9 +7,9 @@ This repository contains the files required in the course project of the Courser
 
 This project serves to demonstrate the student's ability to collect and clean an untidy data set that can be used for subsequent analysis. 
 For this, it is required to submit the following:
-a tidy data.
-a link to a Github repository with a script, run_analysis.R, for performing the analysis.
-Should also be included in the repo 1) a code book that describes the variables, the data, and any transformations or work that were performed to clean up the data called CodeBook.md. 2) a README.md file that explains how all of the scripts work and how they are connected.
+- a tidy data.
+- a link to a Github repository with a script, run_analysis.R, for performing the analysis.
+- Should also be included in the repo 1) a code book that describes the variables, the data, and any transformations or work that were performed to clean up the data called CodeBook.md. 2) a README.md file that explains how all of the scripts work and how they are connected.
 
 ##Data Description:
 The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. 
